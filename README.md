@@ -27,9 +27,16 @@ Model performance is evaluated using classification metrics and confusion matric
 
 ## Dataset
 
-The dataset contains 5,110 patient records with demographic and health-related attributes such as age, gender, hypertension, heart disease, average glucose level, BMI, smoking status, and stroke outcome.
+The dataset used in this project is the **Stroke Prediction Dataset** from Kaggle.
 
-The dataset is not uploaded separately to this repository.
+The dataset can be downloaded directly from Kaggle:
+
+1. Visit the [Stroke Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
+2. Download `healthcare-dataset-stroke-data.csv`.
+3. Place the CSV file in the same folder as the Jupyter Notebook.
+4. Run the notebook.
+
+> Note: The dataset is not included in this repository. Please download it separately from Kaggle before running the notebook.
 
 ## Project File
 
