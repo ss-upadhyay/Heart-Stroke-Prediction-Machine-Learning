@@ -37,9 +37,10 @@ The dataset was obtained from Kaggle:
 **Stroke Prediction Dataset**  
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
+Download dataset from Kaggle and place it in the same folder as the Jupyter Notebook before running the notebook.
+
 The dataset is provided for educational and project purposes. Credit and attribution belong to the original dataset author/source.
 
 ## Project Files
 
 - `Heart Stroke Prediction ML Project.ipynb` - Jupyter Notebook containing the complete machine learning analysis and model development.
-- `healthcare-dataset-stroke-data.csv` - Dataset used for the analysis.
