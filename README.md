@@ -29,9 +29,6 @@ Model performance is evaluated using classification metrics and confusion matric
 
 The dataset used in this project is the **Stroke Prediction Dataset** from Kaggle.
 
-The dataset file is included separately in this repository:
-
-- `healthcare-dataset-stroke-data.csv`
 
 ### Dataset Source
 
